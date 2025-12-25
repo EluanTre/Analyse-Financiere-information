@@ -1,0 +1,9 @@
+body {
+  font-family: "DM Serif Text", serif;
+  background-color: teal;
+}
+
+.title {
+  text-align: center;
+  text-decoration: underline;
+}
